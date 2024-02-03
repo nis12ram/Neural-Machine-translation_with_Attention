@@ -1,7 +1,7 @@
 # Neural-Machine-translation_with_Attention
  notebook with multiiple attention techniques (Bhadnau and Luong) with different alignment model
 
-## These Notebooks are base on Global attention approach(all source wordss are consideres)
+## Gloabl Attention Approach and Local Attention Approach
 
 Taken help from these paper
 
