@@ -4,6 +4,8 @@
 ## These Notebooks are base on Global attention approach(all source wordss are consideres)
 
 Taken help from these paper
+
+
 for Luong https://arxiv.org/abs/1508.04025
 
 
