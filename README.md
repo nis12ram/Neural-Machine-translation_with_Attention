@@ -2,7 +2,7 @@
  notebook with multiiple attention techniques (Bhadnau and Luong) with different alignment model
 
 ## Gloabl Attention Approach and Local Attention Approach
-## for local attention used these repo https://github.com/uzaymacar/attention-mechanisms
+## for local attention followed these repo https://github.com/uzaymacar/attention-mechanisms
 
 Taken help from these paper
 
