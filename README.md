@@ -1,5 +1,5 @@
 # Neural-Machine-translation_with_Attention
- notebook with multiiple attention techniques (Bhadnau and Luong) with different alignment model
+ notebook with multiiple attention techniques (bahdanau and Luong) with different alignment model
 
 ## Gloabl Attention Approach and Local Attention Approach
 ## for local attention followed these repo https://github.com/uzaymacar/attention-mechanisms
@@ -14,7 +14,7 @@ for bahdanau https://arxiv.org/abs/1409.0473
 
 
 
----> Attention architecture used are (bhadnau and Luong)
+---> Attention architecture used are (bahdanau and Luong)
 
 
 ---> Alignment model approaches used are (Dot,general,concat)
